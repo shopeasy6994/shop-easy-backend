@@ -1,0 +1,19 @@
+# Django and Core Components
+Django==4.2.15
+djangorestframework==3.15.1
+django-cors-headers==4.4.0
+django-filter==24.2
+gunicorn==22.0.0
+
+# Authentication & Security
+djangorestframework-simplejwt==5.3.1
+pyotp==2.9.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Utilities
+Pillow==10.4.0
+pandas==2.2.2
+openpyxl==3.1.2
+requests==2.32.3
